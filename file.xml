@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<aliens>
+    <alien>
+        <name>Naveen</name>
+        <salary>8000</salary>
+    </alien>
+
+<alien>
+    <name>Nishant</name>
+    <salary>5000</salary>
+</alien>
+</aliens>
